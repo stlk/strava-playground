@@ -2,3 +2,5 @@ env
 .ipynb_checkpoints
 __pycache__
 settings.py
+points.pickle
+heatmap.html
